@@ -1,0 +1,51 @@
+#myCarousel.carousel.slide data-ride="carousel" 
+  /! Indicators
+  ol.carousel-indicators
+    li.active data-slide-to="0" data-target="#myCarousel" 
+    li data-slide-to="1" data-target="#myCarousel"
+    li data-slide-to="2" data-target="#myCarousel"
+  /! Wrapper for slides
+  .carousel-inner
+    .item.active
+      = image_tag 'build_logo.jpg', class: 'tales img-fluid'
+    .item
+      = image_tag 'history.jpg', class: 'tales img-fluid'
+    .item
+      = image_tag 'image2.jpg', class: 'tales img-fluid'
+  /! Left and right controls
+  a.left.carousel-control data-slide="prev" href="#myCarousel" 
+    span.glyphicon.glyphicon-chevron-left
+    span.sr-only Previous
+  a.right.carousel-control data-slide="next" href="#myCarousel" 
+    span.glyphicon.glyphicon-chevron-right
+    span.sr-only Next
+.container.body-content
+  .col-sm-4.pad-20
+    h3.h1-class
+      |
+        Institutes of Excellence
+    .panel-body
+      = image_tag('image1.jpg', size: "350x300")
+    p 
+      |
+        St Domnik Inter College also has exclusive supportive institutes to help promote research activities and career opportunities.  
+  .col-sm-4.pad-20
+    h3.h1-class
+      |
+        Centres for Excellence
+    .panel-body
+      = image_tag('image1.jpg', size: "350x300")
+    p
+      |
+        Centres to provide twining programs both international and national,promote environmental,cultural and social activities
+  .col-sm-4.pad-20
+    h3.h1-class
+      |
+        Mission 2025
+    .panel-body
+      = image_tag('image1.jpg', size: "350x300")
+    p
+      |
+        our missions is to create future leaders in businesses, organizations, and our community. Thus, we focus on developing habits and traits that lead to highly effective individuals. Additionally, we pride ourselves on offering an engaging curriculum in an environment that promotes values of honesty, integrity, respect and kindness. 
+
+
