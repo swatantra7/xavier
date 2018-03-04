@@ -44523,3 +44523,3049 @@ Completed 200 OK in 43ms (Views: 42.0ms | ActiveRecord: 0.0ms)
 
 
 Started GET "/assets/bg_img.jpeg" for 127.0.0.1 at 2018-02-11 17:47:23 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 18:11:08 +0530
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (7896.4ms)
+  Rendered layouts/_home_footer.html.slim (5.7ms)
+Completed 200 OK in 8178ms (Views: 8165.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/sms.self-5d78db43ca51e845274c4c5db1beccdd59eea4854519c6820d5d15d3d0d07584.css?body=1" for 127.0.0.1 at 2018-02-11 18:11:17 +0530
+
+
+Started GET "/assets/bg_img.jpeg" for 127.0.0.1 at 2018-02-11 18:11:17 +0530
+
+
+Started GET "/home" for 127.0.0.1 at 2018-02-11 18:11:30 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 18:11:30 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (4.7ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 43ms (Views: 42.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bg_img.jpeg" for 127.0.0.1 at 2018-02-11 18:11:30 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 18:34:35 +0530
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (853.9ms)
+Completed 200 OK in 948ms (Views: 936.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 18:43:32 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (21.0ms)
+Completed 200 OK in 71ms (Views: 69.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 18:47:08 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (164.8ms)
+Completed 200 OK in 226ms (Views: 225.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 18:49:35 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (22.3ms)
+Completed 200 OK in 50ms (Views: 49.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 18:49:47 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (6.3ms)
+Completed 200 OK in 22ms (Views: 21.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 18:56:24 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (43.4ms)
+Completed 200 OK in 188ms (Views: 187.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 18:59:18 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (43.6ms)
+Completed 200 OK in 96ms (Views: 95.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:00:58 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (22.0ms)
+Completed 200 OK in 75ms (Views: 74.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:02:34 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (66.9ms)
+Completed 200 OK in 153ms (Views: 152.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:03:35 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (22.1ms)
+Completed 200 OK in 98ms (Views: 97.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:03:50 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (4.3ms)
+Completed 200 OK in 36ms (Views: 35.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:04:18 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (21.4ms)
+Completed 200 OK in 79ms (Views: 71.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:23:19 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (44.0ms)
+Completed 200 OK in 76ms (Views: 74.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:25:42 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (43.2ms)
+Completed 200 OK in 75ms (Views: 74.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:26:30 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (42.5ms)
+Completed 200 OK in 76ms (Views: 75.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:26:33 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (5.0ms)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:27:52 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (29.7ms)
+Completed 200 OK in 47ms (Views: 46.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:27:55 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:28:10 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (21.7ms)
+Completed 200 OK in 58ms (Views: 57.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:28:19 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 24ms (Views: 23.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:29:30 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (23.3ms)
+Completed 200 OK in 65ms (Views: 64.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:32:41 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (33.8ms)
+Completed 500 Internal Server Error in 78ms
+
+ActionView::Template::Error (undefined method `reder' for #<#<Class:0x00000002982270>:0x007f148e5fad80>):
+    66:     <div main-section="main-section">
+    67:       = yield
+    68:     </div>
+    69:     = reder 'layout/home_footer'
+    70:     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js" type="text/javascript"></script><script src="https://uploads-ssl.webflow.com/5a7427cfa5fde00001896936/js/webflow.164b10310.js" type="text/javascript"></script><!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
+    71:   </body>
+    72: </html>
+  app/views/layouts/application.html.slim:69:in `_app_views_layouts_application_html_slim__723312982396857382_69863132349280'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (52.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (163.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (202.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:32:52 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 21ms
+
+ActionView::MissingTemplate (Missing partial layout/_home_footer with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :slim, :coffee, :jbuilder]}. Searched in:
+  * "/home/swatantra/Documents/Projects/xavier/app/views"
+  * "/home/swatantra/.rvm/gems/ruby-2.2.0/gems/contact_us-1.0.1/app/views"
+):
+  app/views/layouts/application.html.slim:69:in `_app_views_layouts_application_html_slim__723312982396857382_69863131535140'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (9.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (32.0ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (20.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (42.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:33:07 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (4.0ms)
+Completed 200 OK in 61ms (Views: 59.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:33:29 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 39ms (Views: 38.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:39:09 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 63ms (Views: 62.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:42:06 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+Completed 200 OK in 60ms (Views: 59.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:42:33 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.0ms)
+Completed 200 OK in 54ms (Views: 53.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:43:07 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 79ms (Views: 78.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:43:37 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+Completed 200 OK in 26ms (Views: 25.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:43:57 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 73ms (Views: 72.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:45:07 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 113ms (Views: 112.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:46:05 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 84ms (Views: 83.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:46:45 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 82ms (Views: 81.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:47:01 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 91ms (Views: 90.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:50:03 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 116ms (Views: 115.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:51:20 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.6ms)
+Completed 200 OK in 121ms (Views: 120.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:52:02 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 151ms (Views: 150.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:53:12 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (4.4ms)
+Completed 200 OK in 85ms (Views: 83.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:53:59 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (9.1ms)
+Completed 200 OK in 93ms (Views: 91.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:54:17 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (4.9ms)
+Completed 200 OK in 66ms (Views: 65.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:54:55 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (9.9ms)
+Completed 200 OK in 69ms (Views: 68.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:55:28 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.2ms)
+  Rendered layouts/_home_footer.html.slim (8.7ms)
+Completed 200 OK in 66ms (Views: 65.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:56:23 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (37.9ms)
+  Rendered layouts/_home_footer.html.slim (9.5ms)
+Completed 200 OK in 62ms (Views: 61.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:56:54 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (58.5ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 68ms (Views: 66.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:57:30 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (53.2ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 64ms (Views: 63.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:58:02 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (51.4ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 59ms (Views: 58.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:58:23 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (36.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 77ms (Views: 76.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:58:40 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (28.3ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 51ms (Views: 49.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:58:54 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (28.6ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 53ms (Views: 52.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:59:36 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (52.6ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 70ms (Views: 69.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 19:59:53 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (38.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 54ms (Views: 52.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 20:00:08 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (22.9ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 87ms (Views: 86.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 20:00:19 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (40.0ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 118ms (Views: 116.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 20:00:33 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (30.5ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 36ms (Views: 35.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 20:00:44 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (32.7ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 39ms (Views: 37.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 20:01:57 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 28ms
+
+ActionView::Template::Error (Unexpected indentation
+  /home/swatantra/Documents/Projects/xavier/app/views/layouts/application.html.slim, Line 2, Column 2
+    head
+    ^
+):
+    1: doctype html
+    2:   head
+    3:     meta charset="utf-8" /
+    4:     title фэстен
+    5:     meta content="width=device-width, initial-scale=1" name="viewport" /
+  app/views/layouts/application.html.slim:2
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (14.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (49.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (25.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (52.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 20:02:42 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 86ms (Views: 85.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 20:06:35 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 61ms (Views: 60.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 20:07:28 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.0ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 81ms (Views: 80.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 20:12:46 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 86ms (Views: 85.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 20:13:29 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.2ms)
+Completed 500 Internal Server Error in 3957ms
+
+ActionView::Template::Error (Asset was not declared to be precompiled in production.
+Add `Rails.application.config.assets.precompile += %w( layout.css )` to `config/initializers/assets.rb` and restart your server):
+     7:     title фэстен
+     8:     meta content="width=device-width, initial-scale=1" name="viewport" /
+     9:     meta content="Webflow" name="generator" /
+    10:     = stylesheet_link_tag 'layout', media: 'all', 'data-turbolinks-track' => true
+    11:     script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js" type="text/javascript" 
+    12:     javascript:
+    13:       | WebFont.load({  google: {    families: ["Oswald:200,300,400,500,600,700","Inconsolata:400,700"]  }});
+  app/views/layouts/application.html.slim:10:in `_app_views_layouts_application_html_slim__723312982396857382_69863131713180'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (22.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (7.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (70.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (37.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (76.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 20:14:16 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 3482ms
+
+ActionView::Template::Error (Asset was not declared to be precompiled in production.
+Add `Rails.application.config.assets.precompile += %w( layout.css )` to `config/initializers/assets.rb` and restart your server):
+     7:     title фэстен
+     8:     meta content="width=device-width, initial-scale=1" name="viewport" /
+     9:     meta content="Webflow" name="generator" /
+    10:     = stylesheet_link_tag 'layout', media: 'all', 'data-turbolinks-track' => true
+    11:     script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js" type="text/javascript" 
+    12:     javascript:
+    13:       | WebFont.load({  google: {    families: ["Oswald:200,300,400,500,600,700","Inconsolata:400,700"]  }});
+  app/views/layouts/application.html.slim:10:in `_app_views_layouts_application_html_slim__723312982396857382_69863131713180'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (19.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (63.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (27.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (54.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 20:15:40 +0530
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (76.6ms)
+  Rendered layouts/_home_footer.html.slim (27.6ms)
+Completed 200 OK in 1375ms (Views: 1362.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-ecb3c6408126bf7d14f4e60d20dd812aa04014258f8e130771f1ba17b93b8fdf.css?body=1" for 127.0.0.1 at 2018-02-11 20:15:42 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-11 20:17:54 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 1329ms (Views: 1327.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-11ca16f2571c907e9599aee2545913d355e7e4d05810b2b5743ccc14e5899678.css?body=1" for 127.0.0.1 at 2018-02-11 20:17:55 +0530
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-11 20:17:56 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-12 23:21:56 +0530
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (80.3ms)
+  Rendered layouts/_home_footer.html.slim (12.0ms)
+Completed 200 OK in 4740ms (Views: 4715.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-12 23:22:03 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-12 23:34:42 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 139ms (Views: 137.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-12 23:34:42 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-12 23:38:36 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 120ms (Views: 119.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-12 23:38:37 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-12 23:42:15 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.0ms)
+Completed 200 OK in 68ms (Views: 66.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-12 23:42:15 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 01:29:43 +0530
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (58.4ms)
+  Rendered layouts/_home_footer.html.slim (9.3ms)
+Completed 200 OK in 1246ms (Views: 1233.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-17 01:29:45 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 01:33:16 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (22.2ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 59ms (Views: 58.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-17 01:33:16 +0530
+
+
+Started GET "/principal_message" for 127.0.0.1 at 2018-02-17 01:33:20 +0530
+
+ActionController::RoutingError (No route matches [GET] "/principal_message"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (36.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (88.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (25.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (63.4ms)
+
+
+Started GET "/principal_message" for 127.0.0.1 at 2018-02-17 01:34:05 +0530
+
+ActionController::RoutingError (No route matches [GET] "/principal_message"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.0ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (47.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (21.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (42.5ms)
+
+
+Started GET "/principal_message" for 127.0.0.1 at 2018-02-17 01:34:09 +0530
+
+ActionController::RoutingError (No route matches [GET] "/principal_message"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (37.0ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (21.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (41.8ms)
+
+
+Started GET "/principal_message" for 127.0.0.1 at 2018-02-17 01:34:26 +0530
+
+ActionController::RoutingError (No route matches [GET] "/principal_message"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.1ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (37.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (19.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (39.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 01:34:33 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 50ms (Views: 48.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-17 01:34:34 +0530
+
+
+Started GET "/pages/principal_message" for 127.0.0.1 at 2018-02-17 01:34:37 +0530
+
+ActionController::RoutingError (No route matches [GET] "/pages/principal_message"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (37.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (20.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (40.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 01:37:32 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 73ms
+
+SyntaxError (/home/swatantra/Documents/Projects/xavier/app/views/layouts/application.html.slim:56: syntax error, unexpected ';', expecting ')'
+...temple_html_pretty1)))).to_s)); 
+...                               ^):
+  app/views/layouts/application.html.slim:56: syntax error, unexpected ';', expecting ')'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (18.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (62.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (28.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (57.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 01:38:03 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.2ms)
+Completed 500 Internal Server Error in 110ms
+
+SyntaxError (/home/swatantra/Documents/Projects/xavier/app/views/layouts/application.html.slim:56: syntax error, unexpected ';', expecting ')'
+...temple_html_pretty1)))).to_s)); 
+...                               ^):
+  app/views/layouts/application.html.slim:56: syntax error, unexpected ';', expecting ')'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (15.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (56.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (30.0ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (58.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 01:38:27 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 68ms
+
+SyntaxError (/home/swatantra/Documents/Projects/xavier/app/views/layouts/application.html.slim:57: syntax error, unexpected ';', expecting ')'
+...temple_html_pretty1)))).to_s)); 
+...                               ^):
+  app/views/layouts/application.html.slim:57: syntax error, unexpected ';', expecting ')'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (14.0ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (49.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (28.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (65.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 01:38:43 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.2ms)
+Completed 500 Internal Server Error in 51ms
+
+SyntaxError (/home/swatantra/Documents/Projects/xavier/app/views/layouts/application.html.slim:57: syntax error, unexpected ';', expecting ')'
+...temple_html_pretty1)))).to_s)); 
+...                               ^):
+  app/views/layouts/application.html.slim:57: syntax error, unexpected ';', expecting ')'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (14.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (52.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (29.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (58.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 01:38:58 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 49ms
+
+SyntaxError (/home/swatantra/Documents/Projects/xavier/app/views/layouts/application.html.slim:56: syntax error, unexpected ';', expecting ')'
+...temple_html_pretty1)))).to_s)); 
+...                               ^):
+  app/views/layouts/application.html.slim:56: syntax error, unexpected ';', expecting ')'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (9.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (32.0ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (20.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (41.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 01:39:05 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 128ms
+
+ActionView::Template::Error (undefined method `page' for #<#<Class:0x007fe30a50b028>:0x00000001e293b0>):
+    53:                 nav.dropdown-list.w-dropdown-list
+    54:                   a.dropdown-link.w-dropdown-link href="#"  Link 1
+    55:                   a.w-dropdown-link href="#"  Link 2
+    56:                   = link_to t('.principal_message'), page('about/principal_message')
+    57:               .w-dropdown data-delay="0" 
+    58:                 .dropdown-toggle.w-dropdown-toggle`
+    59:                  .w-icon-dropdown-toggle
+  app/views/layouts/application.html.slim:56:in `_app_views_layouts_application_html_slim__239270449978235531_15153380'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (10.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.0ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (37.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (20.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (41.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 01:39:27 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.2ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 91ms (Views: 90.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-17 01:39:27 +0530
+
+
+Started GET "/about/principal_message" for 127.0.0.1 at 2018-02-17 01:39:44 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"about/principal_message"}
+  Rendered pages/about/principal_message.html.slim within layouts/application (32.8ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 113ms (Views: 112.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about/principal_message" for 127.0.0.1 at 2018-02-17 01:41:12 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"about/principal_message"}
+  Rendered pages/about/principal_message.html.slim within layouts/application (55.4ms)
+Completed 500 Internal Server Error in 169ms
+
+SyntaxError (/home/swatantra/Documents/Projects/xavier/app/views/layouts/application.html.slim:58: syntax error, unexpected '.'
+.w-dropdown data-delay="0"), t...
+ ^
+/home/swatantra/Documents/Projects/xavier/app/views/layouts/application.html.slim:58: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+.w-dropdown data-delay="0"), true, "\n       ...
+                ^):
+  app/views/layouts/application.html.slim:58: syntax error, unexpected '.'
+  app/views/layouts/application.html.slim:58: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (20.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.1ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (64.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (73.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (157.4ms)
+
+
+Started GET "/about/principal_message" for 127.0.0.1 at 2018-02-17 01:41:30 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"about/principal_message"}
+  Rendered pages/about/principal_message.html.slim within layouts/application (3.7ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 110ms (Views: 109.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-11ca16f2571c907e9599aee2545913d355e7e4d05810b2b5743ccc14e5899678.css?body=1" for 127.0.0.1 at 2018-02-17 01:41:30 +0530
+
+
+Started GET "/about/principal_message" for 127.0.0.1 at 2018-02-17 01:42:45 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"about/principal_message"}
+  Rendered pages/about/principal_message.html.slim within layouts/application (142.2ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 269ms (Views: 268.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about/principal_message" for 127.0.0.1 at 2018-02-17 01:42:47 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"about/principal_message"}
+  Rendered pages/about/principal_message.html.slim within layouts/application (2.8ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 17ms (Views: 16.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about/principal_message" for 127.0.0.1 at 2018-02-17 01:43:14 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"about/principal_message"}
+  Rendered pages/about/principal_message.html.slim within layouts/application (451.3ms)
+  Rendered layouts/_home_footer.html.slim (0.2ms)
+Completed 200 OK in 605ms (Views: 603.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about/principal_message" for 127.0.0.1 at 2018-02-17 01:50:04 +0530
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"about/principal_message"}
+  Rendered pages/about/principal_message.html.slim within layouts/application (1014.1ms)
+  Rendered layouts/_home_footer.html.slim (39.6ms)
+Completed 200 OK in 1222ms (Views: 1205.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about/principal_message" for 127.0.0.1 at 2018-02-17 01:51:30 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"about/principal_message"}
+  Rendered pages/about/principal_message.html.slim within layouts/application (32.9ms)
+  Rendered layouts/_home_footer.html.slim (0.0ms)
+Completed 200 OK in 70ms (Views: 68.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about/principal_message" for 127.0.0.1 at 2018-02-17 01:53:51 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"about/principal_message"}
+  Rendered pages/about/principal_message.html.slim within layouts/application (2.7ms)
+  Rendered layouts/_home_footer.html.slim (0.0ms)
+Completed 200 OK in 49ms (Views: 48.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about/principal_message" for 127.0.0.1 at 2018-02-17 01:54:29 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"about/principal_message"}
+  Rendered pages/about/principal_message.html.slim within layouts/application (6.3ms)
+  Rendered layouts/_home_footer.html.slim (0.0ms)
+Completed 200 OK in 63ms (Views: 61.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about/principal_message" for 127.0.0.1 at 2018-02-17 01:54:36 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"about/principal_message"}
+  Rendered pages/about/principal_message.html.slim within layouts/application (4.4ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 19ms (Views: 18.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about/principal_message" for 127.0.0.1 at 2018-02-17 01:55:41 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"about/principal_message"}
+  Rendered pages/about/principal_message.html.slim within layouts/application (4.2ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 19ms (Views: 18.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 01:55:48 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (57.2ms)
+  Rendered layouts/_home_footer.html.slim (0.0ms)
+Completed 200 OK in 70ms (Views: 69.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-17 01:55:49 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 02:04:47 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (31.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 116ms (Views: 115.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-17 02:04:47 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 02:06:33 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (28.8ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 112ms (Views: 111.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-17 02:06:33 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 02:07:05 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (37.5ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 156ms (Views: 155.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-17 02:07:05 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 02:07:25 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (30.4ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 71ms (Views: 69.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-17 02:07:26 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 02:08:07 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (28.6ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 145ms (Views: 144.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-17 02:08:07 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 02:09:57 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (48.6ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 230ms (Views: 229.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-17 02:09:57 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 02:10:50 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (41.7ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 117ms (Views: 116.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-17 02:10:50 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 02:12:48 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (32.4ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 127ms (Views: 126.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-17 02:12:49 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 02:13:52 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (36.2ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 128ms (Views: 127.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-17 02:13:52 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 02:18:24 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (59.9ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 142ms (Views: 141.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-17 02:18:25 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 02:20:41 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (40.7ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 117ms (Views: 116.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-17 02:20:41 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-02-17 02:26:46 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (30.8ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 124ms (Views: 123.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-02-17 02:26:47 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 11:43:51 +0530
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (60.7ms)
+  Rendered layouts/_home_footer.html.slim (8.0ms)
+Completed 200 OK in 1794ms (Views: 1779.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-11ca16f2571c907e9599aee2545913d355e7e4d05810b2b5743ccc14e5899678.css?body=1" for 127.0.0.1 at 2018-03-04 11:43:53 +0530
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-03-04 11:43:55 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 11:48:59 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 11:48:59 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.0ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 9ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-03-04 11:48:59 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:14:15 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 154ms (Views: 153.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/build_logo.jpeg" for 127.0.0.1 at 2018-03-04 12:14:16 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:20:48 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 1966ms (Views: 1965.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-2fedb506827196f5a8f2325ae55f979ed62a2bf5416be13f57a2e4c46c84f513.css?body=1" for 127.0.0.1 at 2018-03-04 12:20:50 +0530
+
+
+Started GET "/assets/image1.jPG" for 127.0.0.1 at 2018-03-04 12:20:50 +0530
+
+ActionController::RoutingError (No route matches [GET] "/assets/image1.jPG"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (37.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (1227.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (23.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (57.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:21:11 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 91ms (Views: 90.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/image1.jPG" for 127.0.0.1 at 2018-03-04 12:21:11 +0530
+
+ActionController::RoutingError (No route matches [GET] "/assets/image1.jPG"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (39.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (25.0ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (46.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:21:27 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 1340ms (Views: 1338.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-e11a91e495aad08c4ccb0a7f103cfd3e3c475d5aef7cb64d9edfd112a7e1be07.css?body=1" for 127.0.0.1 at 2018-03-04 12:21:28 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:21:28 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:21:46 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 53ms (Views: 51.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:21:47 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:22:10 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 152ms (Views: 151.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:22:10 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:31:29 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (46.4ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 184ms (Views: 182.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:31:29 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:32:05 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (57.6ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 152ms (Views: 151.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:32:05 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:32:34 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (31.6ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 84ms (Views: 83.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:32:35 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:33:39 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (33.9ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 47ms (Views: 46.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:33:39 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:37:33 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 725ms
+
+ActionView::Template::Error (Invalid CSS after "...l("image1.JPG")": expected "{", was ";"):
+     7:     title = t('.xavier')
+     8:     meta content="width=device-width, initial-scale=1" name="viewport" /
+     9:     meta content="Webflow" name="generator" /
+    10:     = stylesheet_link_tag 'layout', media: 'all', 'data-turbolinks-track' => true
+    11:     script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js" type="text/javascript" 
+    12:     javascript:
+    13:       | WebFont.load({  google: {    families: ["Oswald:200,300,400,500,600,700","Inconsolata:400,700"]  }});
+  app/assets/stylesheets/layout.css.scss:614
+  app/views/layouts/application.html.slim:10:in `_app_views_layouts_application_html_slim__3074067632775749292_69983194436040'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (14.0ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (41.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (27.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (55.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:38:27 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 483ms
+
+ActionView::Template::Error (Invalid CSS after "...l("image1.JPG")": expected "{", was ";"):
+     7:     title = t('.xavier')
+     8:     meta content="width=device-width, initial-scale=1" name="viewport" /
+     9:     meta content="Webflow" name="generator" /
+    10:     = stylesheet_link_tag 'layout', media: 'all', 'data-turbolinks-track' => true
+    11:     script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js" type="text/javascript" 
+    12:     javascript:
+    13:       | WebFont.load({  google: {    families: ["Oswald:200,300,400,500,600,700","Inconsolata:400,700"]  }});
+  app/assets/stylesheets/layout.css.scss:612
+  app/views/layouts/application.html.slim:10:in `_app_views_layouts_application_html_slim__3074067632775749292_69983194436040'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (11.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (33.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (19.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (40.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:38:56 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 1204ms (Views: 1203.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-7578453037e3ced71fd0b91a75b2e743dc7afb19bebea16761ecfc46716b8f44.css?body=1" for 127.0.0.1 at 2018-03-04 12:38:58 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:38:58 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:42:17 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 1344ms (Views: 1343.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-8baf3eba3aec3a788bdc9dbe4e0f721bdd0234a48a84fe188e1eab114a7e1ed9.css?body=1" for 127.0.0.1 at 2018-03-04 12:42:18 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:42:18 +0530
+
+
+Started GET "/assets/image2.JPG" for 127.0.0.1 at 2018-03-04 12:42:18 +0530
+
+ActionController::RoutingError (No route matches [GET] "/assets/image2.JPG"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (45.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (23.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (46.2ms)
+
+
+Started GET "/assets/image4.JPG" for 127.0.0.1 at 2018-03-04 12:42:19 +0530
+
+ActionController::RoutingError (No route matches [GET] "/assets/image4.JPG"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (36.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (20.1ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (39.8ms)
+
+
+Started GET "/assets/image3.JPG" for 127.0.0.1 at 2018-03-04 12:42:19 +0530
+
+ActionController::RoutingError (No route matches [GET] "/assets/image3.JPG"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (35.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (21.1ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (41.9ms)
+
+
+Started GET "/assets/image5.JPG" for 127.0.0.1 at 2018-03-04 12:42:19 +0530
+
+ActionController::RoutingError (No route matches [GET] "/assets/image5.JPG"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (48.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (28.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (56.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:46:30 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 1283ms (Views: 1282.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-8ac280619db984ec3f5d273740a0634656e6e01b084be542db281d999da9e93c.css?body=1" for 127.0.0.1 at 2018-03-04 12:46:31 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:46:31 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 12:46:31 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 12:46:31 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 12:46:31 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:48:57 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 1316ms (Views: 1315.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-be9cee5a9cd3ae6a68c8494f86a9c0d0e019ae5cc72eb82a844812779c3a0746.css?body=1" for 127.0.0.1 at 2018-03-04 12:48:58 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:48:59 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 12:48:59 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 12:48:59 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 12:48:59 +0530
+
+
+Started GET "/assets/image5.jpg" for 127.0.0.1 at 2018-03-04 12:48:59 +0530
+
+ActionController::RoutingError (No route matches [GET] "/assets/image5.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (3.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (51.0ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (42.0ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.1ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (84.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:50:47 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 648ms
+
+ActionView::Template::Error (Invalid CSS after "  background-image": expected ";", was ": linear-gradie..."):
+     7:     title = t('.xavier')
+     8:     meta content="width=device-width, initial-scale=1" name="viewport" /
+     9:     meta content="Webflow" name="generator" /
+    10:     = stylesheet_link_tag 'layout', media: 'all', 'data-turbolinks-track' => true
+    11:     script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js" type="text/javascript" 
+    12:     javascript:
+    13:       | WebFont.load({  google: {    families: ["Oswald:200,300,400,500,600,700","Inconsolata:400,700"]  }});
+  app/assets/stylesheets/layout.css.scss:626
+  app/views/layouts/application.html.slim:10:in `_app_views_layouts_application_html_slim__3074067632775749292_69983194436040'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (20.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (7.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (57.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (31.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (63.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:51:04 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 137ms (Views: 136.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:51:05 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 12:51:05 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 12:51:05 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 12:51:05 +0530
+
+
+Started GET "/assets/image5.jpg" for 127.0.0.1 at 2018-03-04 12:51:05 +0530
+
+ActionController::RoutingError (No route matches [GET] "/assets/image5.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.0ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (92.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (20.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (41.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:51:20 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 1325ms (Views: 1324.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-39f02d31df337c134281c567d3f0b6337a445b333bfd1cb794db8d732b174d01.css?body=1" for 127.0.0.1 at 2018-03-04 12:51:21 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:51:21 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 12:51:21 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 12:51:21 +0530
+
+
+Started GET "/assets/image5.jpg" for 127.0.0.1 at 2018-03-04 12:51:21 +0530
+
+ActionController::RoutingError (No route matches [GET] "/assets/image5.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (3.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (63.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (24.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (50.4ms)
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 12:51:22 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:52:56 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 1271ms (Views: 1270.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-fdf2b8c724946806dd990f34aa786e987141c4c3db47f15071cee074a08f4e8c.css?body=1" for 127.0.0.1 at 2018-03-04 12:52:57 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:52:58 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 12:52:58 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 12:52:58 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 12:52:58 +0530
+
+
+Started GET "/assets/image5.jpg" for 127.0.0.1 at 2018-03-04 12:52:58 +0530
+
+ActionController::RoutingError (No route matches [GET] "/assets/image5.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.1ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (70.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (43.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (88.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:53:30 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 1292ms (Views: 1291.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-8a557d3f6bf24371a01447123f071d42e22220a40a50f773a4bdd1cf2862e161.css?body=1" for 127.0.0.1 at 2018-03-04 12:53:31 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:53:31 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 12:53:31 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 12:53:31 +0530
+
+
+Started GET "/assets/image5.jpg" for 127.0.0.1 at 2018-03-04 12:53:31 +0530
+
+ActionController::RoutingError (No route matches [GET] "/assets/image5.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (38.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (25.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (50.6ms)
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 12:53:32 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:55:21 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 98ms (Views: 97.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:55:23 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 12:55:23 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 12:55:23 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 12:55:23 +0530
+
+
+Started GET "/assets/image5.jpg" for 127.0.0.1 at 2018-03-04 12:55:23 +0530
+
+ActionController::RoutingError (No route matches [GET] "/assets/image5.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (37.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (26.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (52.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:56:13 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 1473ms (Views: 1472.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-03b1bbd1973bd179bcca56404c05ddeccfce144c750f3a22230bad22e5aebcf2.css?body=1" for 127.0.0.1 at 2018-03-04 12:56:14 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:56:15 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 12:56:15 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 12:56:15 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 12:56:15 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:56:52 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 1321ms (Views: 1320.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-8276bb13e858914d5d77996bd443a25342b3fd680a7c75479124a1976a77c7fc.css?body=1" for 127.0.0.1 at 2018-03-04 12:56:54 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:56:54 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 12:56:54 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 12:56:54 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 12:56:54 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:57:04 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.2ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 1387ms (Views: 1386.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-ca158207a0db64a6a7eb4abc6bf236eb8cf1c3b9573612fc48c54ef74eb4cde2.css?body=1" for 127.0.0.1 at 2018-03-04 12:57:06 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:57:06 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 12:57:06 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 12:57:06 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 12:57:06 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:58:33 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 1372ms (Views: 1371.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-c3f394c781fbed7227f049825faa172280ac71b41016293a33405589dca1235a.css?body=1" for 127.0.0.1 at 2018-03-04 12:58:35 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:58:35 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 12:58:35 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 12:58:35 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 12:59:20 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 1276ms (Views: 1275.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-7840e366faee6fafb9dbb9ea99d108398089d963488616e8ed2d201afac8482f.css?body=1" for 127.0.0.1 at 2018-03-04 12:59:23 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 12:59:23 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 12:59:23 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 12:59:23 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 12:59:23 +0530
+
+
+Started GET "/assets/image5.jpg" for 127.0.0.1 at 2018-03-04 12:59:23 +0530
+
+ActionController::RoutingError (No route matches [GET] "/assets/image5.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (58.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (28.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (69.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 13:02:20 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.3ms)
+Completed 200 OK in 823ms (Views: 822.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/image5.jpg" for 127.0.0.1 at 2018-03-04 13:02:23 +0530
+
+ActionController::RoutingError (No route matches [GET] "/assets/image5.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (818.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.7ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.9ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (1.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (28.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (234.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (326.1ms)
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 13:02:26 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 13:02:26 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 13:02:26 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 13:02:26 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 13:04:32 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (319.2ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 490ms (Views: 487.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 13:04:33 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 13:04:33 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 13:04:33 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 13:04:33 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 13:13:54 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (21.3ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 1628ms (Views: 1627.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-7c3e08064e75e60ec3085f9aacd4f9596103fbf0b6a10f51bf033e60b44a5123.css?body=1" for 127.0.0.1 at 2018-03-04 13:13:56 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 13:13:56 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 13:13:56 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 13:13:56 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 13:13:56 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 13:14:32 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.0ms)
+Completed 200 OK in 1317ms (Views: 1316.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-b0d7a0a77bd7340b832732da0298795edfaeee5bffe1360935c3f2cc1fd6dedf.css?body=1" for 127.0.0.1 at 2018-03-04 13:14:34 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 13:14:34 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 13:14:34 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 13:14:34 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 13:14:34 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 13:15:32 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 78ms (Views: 76.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 13:15:32 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 13:15:32 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 13:15:32 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 13:15:32 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 13:19:36 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 1430ms (Views: 1428.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-ba4259333eda9c50d783d98c917a10979fa49427a8f4685708d325b521b935ec.css?body=1" for 127.0.0.1 at 2018-03-04 13:19:38 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 13:19:38 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 13:19:38 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 13:19:38 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 13:19:38 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 13:20:16 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 1453ms (Views: 1451.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-de78823efda0f395bcf411392d42507a48a70bf95b42d69a76e1e1150fa0d5fb.css?body=1" for 127.0.0.1 at 2018-03-04 13:20:17 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 13:20:17 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 13:20:18 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 13:20:18 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 13:20:18 +0530
+
+
+Started GET "/assets/image3.JPG" for 127.0.0.1 at 2018-03-04 13:20:18 +0530
+
+ActionController::RoutingError (No route matches [GET] "/assets/image3.JPG"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/swatantra/.rvm/rubies/ruby-2.2.0/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.2ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (3.0ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (63.0ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (26.8ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /home/swatantra/.rvm/gems/ruby-2.2.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (90.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 13:20:27 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 1329ms (Views: 1328.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-245bf46bc347e78f0d1f1169462a83a31cb828b40d81898cd10a7999b137d370.css?body=1" for 127.0.0.1 at 2018-03-04 13:20:28 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 13:20:28 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 13:20:28 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 13:20:28 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 13:20:28 +0530
+
+
+Started GET "/assets/image3.jpeg" for 127.0.0.1 at 2018-03-04 13:20:28 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 13:20:40 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.0ms)
+Completed 200 OK in 1211ms (Views: 1210.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-33067cd78ea2049a0bd791e410e0596d8cb800548e796428046329b4c2ec8aff.css?body=1" for 127.0.0.1 at 2018-03-04 13:20:41 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 13:20:41 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 13:20:41 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 13:20:41 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 13:20:41 +0530
+
+
+Started GET "/assets/image4.jpeg" for 127.0.0.1 at 2018-03-04 13:20:41 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 13:20:49 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 1343ms (Views: 1342.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-e0d148db4c9bbebdac8ea5ab00ca9bcc73d6fbda6d69a6f22ae22ffc2c922cc2.css?body=1" for 127.0.0.1 at 2018-03-04 13:20:51 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 13:20:51 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 13:20:51 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 13:20:51 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 13:20:51 +0530
+
+
+Started GET "/assets/image2.jpeg" for 127.0.0.1 at 2018-03-04 13:20:51 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 13:22:58 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 66ms (Views: 65.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 13:22:58 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 13:22:58 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 13:22:58 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 13:22:58 +0530
+
+
+Started GET "/assets/image2.jpeg" for 127.0.0.1 at 2018-03-04 13:22:58 +0530
+
+
+Started GET "/?name=swatantra&email=swatantrajha712%40gmail.com&email-2=swatantrajha712%40gmail.com" for 127.0.0.1 at 2018-03-04 13:24:33 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"name"=>"swatantra", "email"=>"swatantrajha712@gmail.com", "email-2"=>"swatantrajha712@gmail.com", "id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 21ms (Views: 20.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 13:24:33 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 13:24:33 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 13:24:33 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 13:24:33 +0530
+
+
+Started GET "/assets/image2.jpeg" for 127.0.0.1 at 2018-03-04 13:24:33 +0530
+
+
+Started GET "/?name=swatantra&email=swatantrajha712%40gmail.com&email-2=swatantrajha712%40gmail.com" for 127.0.0.1 at 2018-03-04 13:29:15 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"name"=>"swatantra", "email"=>"swatantrajha712@gmail.com", "email-2"=>"swatantrajha712@gmail.com", "id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (13.1ms)
+Completed 200 OK in 35ms (Views: 34.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-e0d148db4c9bbebdac8ea5ab00ca9bcc73d6fbda6d69a6f22ae22ffc2c922cc2.css?body=1" for 127.0.0.1 at 2018-03-04 13:29:15 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 13:29:15 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 13:29:15 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 13:29:15 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 13:29:15 +0530
+
+
+Started GET "/assets/image2.jpeg" for 127.0.0.1 at 2018-03-04 13:29:15 +0530
+
+
+Started GET "/?name=swatantra&email=swatantrajha712%40gmail.com&email-2=swatantrajha712%40gmail.com" for 127.0.0.1 at 2018-03-04 13:29:36 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"name"=>"swatantra", "email"=>"swatantrajha712@gmail.com", "email-2"=>"swatantrajha712@gmail.com", "id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (5.7ms)
+Completed 200 OK in 18ms (Views: 17.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-e0d148db4c9bbebdac8ea5ab00ca9bcc73d6fbda6d69a6f22ae22ffc2c922cc2.css?body=1" for 127.0.0.1 at 2018-03-04 13:29:36 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 13:29:36 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 13:29:36 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 13:29:36 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 13:29:36 +0530
+
+
+Started GET "/assets/image2.jpeg" for 127.0.0.1 at 2018-03-04 13:29:36 +0530
+
+
+Started GET "/?name=swatantra&email=swatantrajha712%40gmail.com&email-2=swatantrajha712%40gmail.com" for 127.0.0.1 at 2018-03-04 13:29:54 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"name"=>"swatantra", "email"=>"swatantrajha712@gmail.com", "email-2"=>"swatantrajha712@gmail.com", "id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (11.6ms)
+Completed 200 OK in 30ms (Views: 28.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/layout.self-e0d148db4c9bbebdac8ea5ab00ca9bcc73d6fbda6d69a6f22ae22ffc2c922cc2.css?body=1" for 127.0.0.1 at 2018-03-04 13:29:54 +0530
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 13:29:54 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 13:29:54 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 13:29:54 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 13:29:54 +0530
+
+
+Started GET "/assets/image2.jpeg" for 127.0.0.1 at 2018-03-04 13:29:54 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 13:30:13 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 23ms (Views: 21.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 13:30:13 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 13:30:13 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 13:30:13 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 13:30:13 +0530
+
+
+Started GET "/assets/image2.jpeg" for 127.0.0.1 at 2018-03-04 13:30:13 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 13:33:07 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (37.2ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 92ms (Views: 91.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 13:33:09 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 13:33:09 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 13:33:09 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 13:33:09 +0530
+
+
+Started GET "/assets/image2.jpeg" for 127.0.0.1 at 2018-03-04 13:33:09 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-04 13:33:25 +0530
+Processing by HighVoltage::PagesController#show as HTML
+  Parameters: {"id"=>"home"}
+  Rendered pages/home.html.slim within layouts/application (0.1ms)
+  Rendered layouts/_home_footer.html.slim (0.1ms)
+Completed 200 OK in 49ms (Views: 47.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/image1.JPG" for 127.0.0.1 at 2018-03-04 13:33:25 +0530
+
+
+Started GET "/assets/image3.jpg" for 127.0.0.1 at 2018-03-04 13:33:25 +0530
+
+
+Started GET "/assets/image4.jpg" for 127.0.0.1 at 2018-03-04 13:33:25 +0530
+
+
+Started GET "/assets/image2.jpg" for 127.0.0.1 at 2018-03-04 13:33:25 +0530
+
+
+Started GET "/assets/image2.jpeg" for 127.0.0.1 at 2018-03-04 13:33:25 +0530
