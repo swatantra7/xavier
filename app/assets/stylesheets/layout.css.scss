@@ -299,6 +299,8 @@
 .section {
   display: block;
   height: 90px;
+
+
 }
 
 .heading {
@@ -1360,4 +1362,23 @@
     padding-right: 10px;
     padding-left: 10px;
   }
+}
+
+.table-wrapper{
+  padding: 50px !important;
+  background-color: white;
+  th, td {
+    padding: 10px !important;
+    text-align: center;
+    color: green;
+  }
+}
+p{
+  margin-top: 1em;
+  line-height: 1.5em;
+  text-decoration: none;
+}
+
+.custom-head {
+  background-color: #20B2AA;
 }

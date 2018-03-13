@@ -12,6 +12,7 @@
 //
 //= require jquery-2.0.3.min
 //= require jquery_ujs
+//= require bootstrap-table
 //= require bootstrap.min
 //= require_tree .
 
@@ -20,5 +21,9 @@ $(document).ready(function(){
     $(this).find('.dropdown-list').stop(true, true).delay(200).fadeIn(500);
   }, function() {
     $(this).find('.dropdown-list').stop(true, true).delay(200).fadeOut(500);
+  });
+  $('#bootstrap-table').bootstrapTable({
+    pagination: true,
+    pageList: [10, 20, 50, 100, 200]
   });
 });
