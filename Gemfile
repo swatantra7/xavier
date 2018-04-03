@@ -27,14 +27,14 @@ gem "figaro"
 gem 'bootstrap_form', '2.3.0'
 #css
 gem 'bootstrap-sass', '3.3.7'
-gem 'sass-rails', '~> 5.0'
+gem 'sass-rails', '~> 5.0' 
 
 group :development do
-	gem 'pg'
+	gem 'pg', '~> 0.20'
 end
 
 group :production do
-	gem 'pg'
+	gem 'pg', '~> 0.20'
 	gem 'rails_12factor'
 	gem 'rails_serve_static_assets'
 end
