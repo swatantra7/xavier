@@ -30,7 +30,7 @@ gem 'bootstrap-sass', '3.3.7'
 gem 'sass-rails', '~> 5.0'
 
 group :development do
-	gem 'sqlite3'
+	gem 'pg'
 end
 
 group :production do
