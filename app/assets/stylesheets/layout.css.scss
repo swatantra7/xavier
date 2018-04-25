@@ -1380,12 +1380,47 @@ p{
 }
 
 .custom-head {
-  background-color: #20B2AA;
+  background-color: blue;
 }
 .tales {
   width: 100%;
 }
 
-#a-custom {
+.custom-head1{
+  background-color: #20B2AA;
+}
+
+.navigation {
+  background: #034172 none repeat scroll 0 0;
+  border-top: 2px solid #ffc315;
+  min-height: 50px;
+  width: 100%;
+}
+
+.section-2{
+  margin: 0px;
+}
+
+#myNavbar ul.nav a#a-custom:hover {
+  color: #CCCC00;
+  display: inline-block;
+  background:transparent !important;
+}
+
+#a-custom{
   color: #ffffff;
+  font-size: 1.2em;
+}
+
+.icon-bar{
+  background-color  : #ffffff !important;
+}
+
+.dropdown-menu { background-color: #034172 !important;}
+.dropdown-menu{
+  margin: 24px !important;
+}
+
+.navbar{
+  margin-bottom: 0!important;
 }
