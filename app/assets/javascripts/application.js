@@ -17,13 +17,10 @@
 //= require_tree .
 
 $(document).ready(function(){
-  $('.w-dropdown').hover(function() {
-    $(this).find('.dropdown-list').stop(true, true).delay(200).fadeIn(500);
+  $('ul.nav li.dropdown').hover(function() {
+    $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeIn(500);
   }, function() {
-    $(this).find('.dropdown-list').stop(true, true).delay(200).fadeOut(500);
-  });
-  $('#bootstrap-table').bootstrapTable({
-    pagination: true,
-    pageList: [10, 20, 50, 100, 200]
+    $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeOut(500);
   });
 });
+
