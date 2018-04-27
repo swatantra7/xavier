@@ -57,7 +57,7 @@ GEM
     concurrent-ruby (1.0.5)
     contact_us (1.0.1)
       rails (>= 4.2.0)
-    crass (1.0.4)
+    crass (1.0.3)
     debug_inspector (0.0.3)
     erubis (2.7.0)
     execjs (2.7.0)
@@ -89,6 +89,7 @@ GEM
     multi_json (1.13.1)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
+    pg (0.21.0)
     rack (1.6.9)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -159,7 +160,6 @@ GEM
       actionpack (>= 4.0)
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
-    sqlite3 (1.3.13)
     temple (0.8.0)
     therubyracer (0.12.3)
       libv8 (~> 3.16.14.15)
@@ -167,12 +167,12 @@ GEM
     thor (0.20.0)
     thread_safe (0.3.6)
     tilt (2.0.8)
-    turbolinks (5.1.1)
+    turbolinks (5.1.0)
       turbolinks-source (~> 5.1)
     turbolinks-source (5.1.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    uglifier (4.1.9)
+    uglifier (4.1.8)
       execjs (>= 0.3.0, < 3)
     web-console (2.3.0)
       activemodel (>= 4.0)
@@ -194,6 +194,7 @@ DEPENDENCIES
   high_voltage (~> 3.0.0)
   jbuilder (~> 2.0)
   jquery-rails
+  pg (~> 0.20)
   rails (= 4.2.0)
   rails_12factor
   rails_serve_static_assets
@@ -201,7 +202,6 @@ DEPENDENCIES
   sdoc (~> 0.4.0)
   slim-rails (= 3.0.1)
   spring
-  sqlite3
   therubyracer
   turbolinks
   uglifier (>= 1.3.0)
