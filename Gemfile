@@ -1,8 +1,9 @@
 source 'https://rubygems.org'
 
+ruby '2.4.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.2.0'
+gem 'rails', '5.0.1'
 # Use sqlite3 as the database for Active Record
 # Use SCSS for stylesheets
 # Use Uglifier as compressor for JavaScript assets
@@ -21,7 +22,7 @@ gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'high_voltage', '~> 3.0.0'
-gem 'slim-rails', '3.0.1'
+gem 'slim-rails'
 gem 'contact_us', '~> 1.0.1'
 gem "figaro"
 gem 'bootstrap_form', '2.3.0'
@@ -30,11 +31,11 @@ gem 'bootstrap-sass', '3.3.7'
 gem 'sass-rails', '~> 5.0' 
 
 group :development do
-	gem 'pg', '~> 0.20'
+  gem 'sqlite3'
 end
 
 group :production do
-	gem 'pg', '~> 0.20'
+  gem 'sqlite3'
 	gem 'rails_12factor'
 	gem 'rails_serve_static_assets'
 end
