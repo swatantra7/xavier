@@ -38,6 +38,12 @@ group :production do
   gem 'sqlite3'
 	gem 'rails_12factor'
 	gem 'rails_serve_static_assets'
+  gem "capistrano", "~> 3.10", require: false
+  gem "capistrano-rails", "~> 1.3", require: false
+  gem 'capistrano-bundler', '~> 1.3.0', require: false
+  gem "capistrano-passenger", "~> 0.2.0"
+  gem 'capistrano-rvm'
+  gem "capistrano-yarn"
 end
 
 group :development, :test do
@@ -49,7 +55,6 @@ group :development, :test do
 
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
-  gem 'execjs'
-  gem 'therubyracer'
+  gem 'therubyracer', git: 'https://github.com/cowboyd/therubyracer.git'
 end
 
