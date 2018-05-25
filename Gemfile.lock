@@ -230,6 +230,7 @@ DEPENDENCIES
   capistrano-yarn
   coffee-rails (~> 4.1.0)
   contact_us (~> 1.0.1)
+  execjs
   figaro
   high_voltage (~> 3.0.0)
   jbuilder (~> 2.0)
