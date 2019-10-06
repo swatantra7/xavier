@@ -1,6 +1,6 @@
 class NoticesController < ApplicationController
 
-  before_action :authenticate_admin_user!
+  before_action :authenticate_admin_user!, except: :notifications
 
   def index
     @notices = Notice.all
@@ -19,6 +19,12 @@ class NoticesController < ApplicationController
     end
     redirect_to notices_path
   end
+
+  def notifications
+    @general_notices = Notice.where(notice_type: Notice.types['Generic']).last(5)
+    @examination_notices = Notice.where(notice_type: Notice.types['Examination']).last(5)
+  end
+
 
   private
 

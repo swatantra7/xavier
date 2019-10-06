@@ -32,6 +32,11 @@ en:
       and_technology: 'And Technology'
       sms: 'SMS'
       principal_message: 'Message From Principal'
+      notifications: 'Notifications'
+      notice: 'Notice'
+      login: 'Notice'
+      logout: 'Log In'
+      gallery: 'Gallery'
   notices:
     index:
       add_new_notice: Add New Notice
@@ -46,5 +51,7 @@ en:
     new:
       new_image: New Image
     index:
+      name: Name
+      reference_id: Reference ID
       add_new_image: Add New Image
-      notices: Images
+      images: Images

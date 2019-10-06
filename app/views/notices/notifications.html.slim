@@ -1,0 +1,14 @@
+.container-4
+  .div-block-10.col-sm-6.section-3
+    h2.heading-3 General Notifications
+    ol.w-container
+      - @general_notices.each do |gn|
+        li.form-group
+          = gn.content
+
+  .div-block-10.col-sm-6.section-3
+    h2.heading-3 Examination Notifications
+    ol.w-container
+      - @examination_notices.each do |gn|
+        li.form-group
+          = gn.content        

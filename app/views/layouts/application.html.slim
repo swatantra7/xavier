@@ -69,16 +69,18 @@ html data-wf-domain="festen.webflow.io" data-wf-page="5a7427cfa5fde00001896937" 
                   li.divider
               li.list
                 = link_to t('.contact'), new_contact_path('contact'), id: 'a-custom'
+              li.list
+                = link_to t('.notifications'), notifications_notices_path, id: 'a-custom'
               - if admin_user_signed_in?
                 li.list
-                  = link_to "Notice", notices_path, method: :get, id: 'a-custom'
+                  = link_to t('.notice'), notices_path, method: :get, id: 'a-custom'
                 li.list
-                  = link_to "Gallery", images_path, method: :get, id: 'a-custom'
+                  = link_to t('.gallery'), images_path, method: :get, id: 'a-custom'
                 li.list
-                  = link_to "Logout", destroy_admin_user_session_path, method: :delete, id: 'a-custom'
+                  = link_to t('logout'), destroy_admin_user_session_path, method: :delete, id: 'a-custom'
               - else
                 li.list
-                  = link_to "Login", new_admin_user_session_path, id: 'a-custom',class: 'pull-right'
+                  = link_to t('login'), new_admin_user_session_path, id: 'a-custom',class: 'pull-right'
             .menu-button-2.w-nav-button
               .w-icon-nav-menu
     .section-2 main-section="main-section" 
