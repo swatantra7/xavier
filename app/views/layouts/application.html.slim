@@ -69,11 +69,25 @@ html data-wf-domain="festen.webflow.io" data-wf-page="5a7427cfa5fde00001896937" 
                   li.divider
               li.list
                 = link_to t('.contact'), new_contact_path('contact'), id: 'a-custom'
+              - if admin_user_signed_in?
+                li.list
+                  = link_to "Notice", notices_path, method: :get, id: 'a-custom'
+                li.list
+                  = link_to "Gallery", images_path, method: :get, id: 'a-custom'
+                li.list
+                  = link_to "Logout", destroy_admin_user_session_path, method: :delete, id: 'a-custom'
+              - else
+                li.list
+                  = link_to "Login", new_admin_user_session_path, id: 'a-custom',class: 'pull-right'
             .menu-button-2.w-nav-button
               .w-icon-nav-menu
     .section-2 main-section="main-section" 
       .w-container content-block="content-block"
     div main-section="main-section"
+      - if notice
+        p.alert.alert-success= notice
+      - if alert
+        p.alert.alert-danger= alert
       = yield
     = render 'layouts/home_footer' unless controller_name == 'contacts'
     script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js" type="text/javascript" 

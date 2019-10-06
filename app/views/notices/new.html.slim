@@ -1,0 +1,19 @@
+center
+  h2
+    = t('.new_notice')
+.container
+  .form-group
+    .col-md-12
+      = bootstrap_form_for @notice, validates: true, layout: :horizontal,
+          label_col: 'col-md-3', control_col: 'col-md-7', url: notices_path do |f|
+        .form-group.space-20
+          = f.select :notice_type, options_for_select(Notice.types), {include_blank: "Select Notice Type"}, required: true
+        .form-group.space-20
+          = f.text_area :content, rows: "10", required: true
+        .col-md-10
+          = f.button :submit, value: t('.submit'), title: t('.submit'), class: 'btn btn-success pull-right'
+          br
+          br
+          br
+          br
+          br
