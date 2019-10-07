@@ -29,6 +29,8 @@ gem 'bootstrap_form', '2.3.0'
 #css
 gem 'bootstrap-sass', '3.3.7'
 gem 'sass-rails', '~> 5.0' 
+gem 'devise'
+gem "paperclip", "~> 6.0.0"
 
 group :development do
   gem 'sqlite3'

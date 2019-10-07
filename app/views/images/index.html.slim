@@ -1,0 +1,20 @@
+.space-20
+  h3.text-center
+    = t('.images')
+    .pull-right
+      = link_to t('.add_new_image'), new_image_path, class: 'btn btn-success'
+.container
+  .space-20
+    .col-md-12
+      .table-wrapper
+        .table-responsive
+          table.table.table-bordered.table-striped#bootstrap-table
+            thead
+              tr
+                th data-sortable='true' = t('.reference_id')
+                th data-sortable='true' = t('.name')
+            tbody
+              - @images.each do |image|
+                  tr
+                    td = image.id
+                    td = image.document_file_name

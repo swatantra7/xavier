@@ -1,0 +1,22 @@
+.space-20
+  h3.text-center
+    = t('.notices')
+    .pull-right
+      = link_to t('.add_new_notice'), new_notice_path, class: 'btn btn-success'
+.container
+  .space-20
+    .col-md-12
+      .table-wrapper
+        .table-responsive
+          table.table.table-bordered.table-striped#bootstrap-table
+            thead
+              tr
+                th data-sortable='true' = t('.reference_id')
+                th data-sortable='true' = t('.type')
+                th data-sortable='true' = t('.notice')
+            tbody
+              - @notices.each do |notice|
+                  tr
+                    td = notice.id
+                    td = Notice.types.key(notice.notice_type)
+                    td = notice.content

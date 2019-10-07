@@ -1,0 +1,16 @@
+center
+  h2
+    = t('.new_image')
+.container
+  .form-group
+    .col-md-12
+      = bootstrap_form_for @image, validates: true, layout: :horizontal, url: images_path do |f|
+        .form-group.space-20
+          = f.file_field :document, as: :file, accept: "image/png, image/jpeg, image/jpg", :required => true
+        .col-md-10
+          = f.button :submit, value: t('.submit'), title: t('.submit'), class: 'btn btn-success pull-right'
+          br
+          br
+          br
+          br
+          br
