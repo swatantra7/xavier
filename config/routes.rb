@@ -7,7 +7,11 @@ Rails.application.routes.draw do
       get 'notifications'
     end
  end
- resources :images
+ resources :images do
+   collection do
+    get :gallery
+  end
+ end
  resources :courses, only: :index
 
 end

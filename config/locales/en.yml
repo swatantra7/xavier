@@ -37,6 +37,7 @@ en:
       login: 'Notice'
       logout: 'Log In'
       gallery: 'Gallery'
+      upload_images: 'Upload Images'
   notices:
     index:
       add_new_notice: Add New Notice
