@@ -74,11 +74,15 @@ html data-wf-domain="festen.webflow.io" data-wf-page="5a7427cfa5fde00001896937" 
                 = link_to t('.notifications'), notifications_notices_path, id: 'a-custom'
               li.list
                 = link_to t('.gallery'), gallery_images_path, method: :get, id: 'a-custom'
+              li.list
+                = link_to t('.student_registration'), new_student_path, id: 'a-custom'
               - if admin_user_signed_in?
                 li.list
                   = link_to t('.notice'), notices_path, method: :get, id: 'a-custom'
                 li.list
                   = link_to t('.upload_images'), images_path, method: :get, id: 'a-custom'
+                li.list
+                  = link_to t('.students'), students_path, method: :get, id: 'a-custom'
                 li.list
                   = link_to t('logout'), destroy_admin_user_session_path, method: :delete, id: 'a-custom'
               - else

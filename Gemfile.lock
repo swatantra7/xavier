@@ -9,6 +9,8 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
+    aasm (5.0.6)
+      concurrent-ruby (~> 1.0)
     actioncable (5.0.1)
       actionpack (= 5.0.1)
       nio4r (~> 1.2)
@@ -51,6 +53,7 @@ GEM
     arel (7.1.4)
     autoprefixer-rails (8.5.0)
       execjs
+    awesome_print (1.8.0)
     bcrypt (3.1.13)
     binding_of_caller (0.8.0)
       debug_inspector (>= 0.0.1)
@@ -245,6 +248,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  aasm (= 5.0.6)
+  awesome_print
   bootstrap-sass (= 3.3.7)
   bootstrap_form (= 2.3.0)
   byebug

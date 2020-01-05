@@ -1,0 +1,32 @@
+.space-20
+  h3.text-center
+    = t('layouts.application.students')
+.container
+  .space-20
+    .col-md-12
+      .table-wrapper
+        .table-responsive
+          table.table.table-bordered.table-striped#bootstrap-table
+            thead
+              tr
+                th = t('.reference_id')
+                th = t('.name')
+                th = t('.email')
+                th = t('.aadhar_number')
+                th = t('.twelfth_marksheet')
+                th = t('.status')
+                th = t('.approve')
+            tbody
+              - @students.each do |student|
+                  tr
+                    td = student.id
+                    td = student.name
+                    td = student.email
+                    td = student.aadhar_number
+                    td = link_to student.twelfth_marksheet.doc_file_name, download_document_path(student.twelfth_marksheet), method: :get, target: "_blank"
+                    td = student.status.titleize
+                    - if student.may_approve?
+                      td = link_to t('.Approve'), approve_student_path(student), method: :put, data: { confirm: "Are you sure?" }
+                    - else
+                      td = student.status.titleize
+
