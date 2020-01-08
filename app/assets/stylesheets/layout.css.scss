@@ -884,7 +884,8 @@
 
 .section-6 {
   padding-top: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 50px;;
+
   background-color: #fff;
 }
 
@@ -899,11 +900,21 @@
 }
 
 .div-block-13 {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
   background-color: #242c31;
 }
+.float{
+  padding-left: 350px;
+}
 
+.box-border{
+  width: 100%;
+  height: 100%;
+  border: 1px solid blue;
+}
 .text-block-3 {
   color: #fff;
 }
@@ -1092,6 +1103,11 @@
     -ms-flex-align: center;
     align-items: center;
   }
+
+  .float {
+    padding-left: 150px;
+  }
+
   .button {
     display: -webkit-box;
     display: -webkit-flex;
@@ -1362,6 +1378,11 @@
     padding-right: 10px;
     padding-left: 10px;
   }
+
+  .float {
+    padding-left: 90px;
+  }
+
 }
 
 .table-wrapper{
