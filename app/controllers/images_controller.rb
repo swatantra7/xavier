@@ -1,6 +1,6 @@
 class ImagesController < ApplicationController
 
-  before_action :authenticate_admin_user!
+  before_action :authenticate_admin_user!, except: :gallery
 
   def index
     @images = Image.all
@@ -18,6 +18,10 @@ class ImagesController < ApplicationController
       flash[:error] = t('contact_us.notices.error')
     end
     redirect_to images_path
+  end
+
+  def gallery
+    @images = Image.all
   end
 
   private

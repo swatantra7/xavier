@@ -31,6 +31,8 @@ gem 'bootstrap-sass', '3.3.7'
 gem 'sass-rails', '~> 5.0' 
 gem 'devise'
 gem "paperclip", "~> 6.0.0"
+gem 'aasm', '5.0.6'
+gem "awesome_print"
 
 group :development do
   gem 'sqlite3'

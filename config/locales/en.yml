@@ -37,6 +37,9 @@ en:
       login: 'Notice'
       logout: 'Log In'
       gallery: 'Gallery'
+      upload_images: 'Upload Images'
+      student_registration: Student Registration
+      students: Students
   notices:
     index:
       add_new_notice: Add New Notice
@@ -55,3 +58,16 @@ en:
       reference_id: Reference ID
       add_new_image: Add New Image
       images: Images
+  students:
+    new:
+      student_registration_form: Student Registration Form
+      submit: Submit
+    index:
+      students: Students
+      reference_id: Reference ID
+      name: Name
+      email: Email
+      aadhar_number: Aadhar Number
+      status: Status
+      approve: Approve
+      twelfth_marksheet: Twelfth Marksheet
