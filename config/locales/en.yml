@@ -50,6 +50,9 @@ en:
     new:
       new_notice: New Notice
       submit: Submit
+    notifications:
+      general_notifications: General Notifications
+      examination_notifications: Examination Notifications
   images:
     new:
       new_image: New Image

@@ -21,8 +21,8 @@ class NoticesController < ApplicationController
   end
 
   def notifications
-    @general_notices = Notice.where(notice_type: Notice.types['Generic']).last(5)
-    @examination_notices = Notice.where(notice_type: Notice.types['Examination']).last(5)
+    @general_notices = Notice.where(notice_type: Notice.types['Generic']).last(10).reverse
+    @examination_notices = Notice.where(notice_type: Notice.types['Examination']).last(10).reverse
   end
 
 

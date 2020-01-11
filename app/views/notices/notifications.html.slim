@@ -1,20 +1,32 @@
-.conainer style="margin-top: 30px;"
+.space-20
   .col-md-12
     .col-md-6
-      h2.heading-3 General Notifications
-      center
-        .box-border
-          marquee behavior="scroll" direction="up" onmouseleave="this.start();" onmouseover="this.stop();" scrollamount="3"
-          - @general_notices.each do |gn|
-            h2
-              = gn.content
+      h2.heading-3 style="margin-top: 30px;"
+        = t('.general_notifications')
+      .fixed-table-container
+        marquee behavior="scroll" direction="up" onmouseleave="this.start();" onmouseover="this.stop();" scrollamount="5" height="500px"
+          .table-wrapper
+            .table-responsive
+              table.table-striped#bootstrap-table
+                tbody
+                  - @general_notices.each.with_index(1) do |notice, index|
+                      tr
+                        td style="text-align: left;"
+                          = index
+                        td  style="text-align: left;"
+                          = notice.content
     .col-md-6
-      h2.heading-3 Examination Notifications
-      .space-20
-      center
-        .box-border
-          marquee.float behavior="scroll" direction="up" onmouseleave="this.start();" onmouseover="this.stop();" scrollamount="3"
-            - @examination_notices.each do |gn|
-              h2 style="color: midnightblue;"
-                = gn.content
-.clearfix
+      h2.heading-3 style="margin-top: 30px;"
+        = t('.examination_notifications')
+      .fixed-table-container
+        marquee behavior="scroll" direction="up" onmouseleave="this.start();" onmouseover="this.stop();" scrollamount="5" height="500px"
+          .table-wrapper
+            .table-responsive
+              table.table-striped#bootstrap-table
+                tbody
+                  - @examination_notices.each.with_index(1) do |notice, index|
+                      tr
+                        td style="text-align: left;"
+                          = index
+                        td  style="text-align: left;"
+                          = notice.content
