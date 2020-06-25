@@ -27,7 +27,7 @@ gem 'contact_us', '~> 1.0.1'
 gem "figaro"
 gem 'bootstrap_form', '2.3.0'
 #css
-gem 'bootstrap-sass', '3.3.7'
+gem 'bootstrap-sass', '3.4.1'
 gem 'sass-rails', '~> 5.0' 
 gem 'devise'
 gem "paperclip", "~> 6.0.0"
